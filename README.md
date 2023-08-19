@@ -1,7 +1,7 @@
 <h1 align="center">Hola!🐣 , I'm Layaa</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/633586/screenshots/2005061/media/13d6f7c11fee0741c86227701f5c8876.gif">
 
-- 🌱 I’m currently learning  <br /> **Data Science** <br /> **Bioinformatics** <br /> **Machine Learning** <br /> **Systems Biology**
+- 🌱 I’m currently learning  <br /> **💠Data Science** <br /> **💠Bioinformatics** <br /> **💠Machine Learning** <br /> **💠Systems Biology**
 
 - 📫 How to reach me **layaa040@gmail.com**
 
